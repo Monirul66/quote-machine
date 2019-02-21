@@ -54,7 +54,7 @@
   }
   @media only screen and (max-width: 576px) {
     #root {
-      width: 400px;
+      width: 340px;
       padding: 40px 20px;
     }
   }
